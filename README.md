@@ -5,11 +5,11 @@ This project is an interactive AI-powered application that uses LangGraph, LangC
 making it suitable for lightweight research,AI experimentation, and custom tool integration.
 
 ## Features
--LangGraph Agent: Modular, graph-based stateful LLM agent.
--Streamlit UI: Simple web interface to input and view responses.
--Environment Separation: Secure handling of API keys via .env.
--Modular Backend: Easily extend tools, memory, and workflows.
--Fast LLM API: Uses ChatGroq (Gemma-2B model) for inference.
+-LangGraph Agent: Modular, graph-based stateful LLM agent
+-Streamlit UI: Simple web interface to input and view responses
+-Environment Separation: Secure handling of API keys via .env
+-Modular Backend: Easily extend tools, memory, and workflows
+-Fast LLM API: Uses ChatGroq (Gemma-2B model) for inference
 
 ## Tools Used
 - Visual Studio Code
